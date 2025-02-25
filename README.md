@@ -2,7 +2,7 @@
 
 **HaloBCA-1500888/HaloBCA-1500888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: <script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=Mfe0mZrm7wWE"></script>
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
